@@ -8,7 +8,7 @@
 </p>
 
   <a href="https://github.com/rafaballerini">
-    <img height="120em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas074&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="120em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas074&layout=compact&langs_count=7&theme=synthwave"/>
   </a>
 
 <p align="left">
