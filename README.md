@@ -6,8 +6,8 @@
  🍃 Apenas um estudante aprendendo a programar...
 </p>
 
-  <a href="https://github.com/rafaballerini">
-    <img height="120em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas074&layout=compact&langs_count=7&theme=jolly"/>
+  <a href="https://github.com/douglas074">
+    <img height="120em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas074&layout=compact&langs_count=7&theme=gruvbox_light"/>
   </a>
 
 <p align="left">
