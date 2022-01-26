@@ -1,10 +1,9 @@
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.pinimg.com/originals/c4/31/dd/c431dd7de99862ddb61c5d5f6d56041c.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
  ☔ Olá, sou Douglas Guilherme<br>
  🍃 Apenas um estudante aprendendo a programar...
-  
 </p>
 
   <a href="https://github.com/rafaballerini">
