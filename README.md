@@ -1,5 +1,4 @@
-
-<img src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
  ☔ Olá, sou Douglas Guilherme<br>
@@ -7,7 +6,7 @@
 </p>
 
   <a href="https://github.com/douglas074">
-    <img height="120em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas074&layout=compact&langs_count=7&theme=gruvbox_light"/>
+    <img height="120em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas074&layout=compact&langs_count=7&theme=jolly"/>
   </a>
 
 <p align="left">
