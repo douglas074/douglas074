@@ -4,10 +4,6 @@
  ☔ Olá, sou Douglas Guilherme e bem vindo ao meu git;
 </p>
 
-  <a href="https://github.com/douglas074">
-    <img height="120em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas074&layout=compact&langs_count=7&theme=jolly"/>
-  </a>
-
 <p align="left">
   
  <a href="https://www.linkedin.com/in/douglas-guilherme0704/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
