@@ -2,6 +2,10 @@
 
 <p align="left"> 
  ☔ Olá, sou Douglas Guilherme e bem vindo ao meu git;
+ 
+ Eu entendi<br>
+ Que tudo é temporário é só observar o tempo<br>
+ Janeiro passou tão rápido e já, já chega dezembro
 </p>
 
 <p align="left">
