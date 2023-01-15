@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- ☔ Olá, sou Douglas Guilherme<br>
- 🍃 Apenas um estudante aprendendo a programar...
+ ☔ Olá, sou Douglas Guilherme e bem vindo ao meu git;
 </p>
 
   <a href="https://github.com/douglas074">
