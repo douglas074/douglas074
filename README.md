@@ -2,7 +2,6 @@
 <div align="center">
   <a href="https://github.com/douglas074">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas074&layout=compact&langs_count=7&theme=transparent&PAT_1"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglas074&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&PAT_1"/>
   </a>
         <h3></h3>
       <div>
